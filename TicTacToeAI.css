@@ -1,0 +1,9 @@
+.button{
+    -fx-background-color: "black";
+    -fx-text-fill: "white";
+    -fx-font-size: 95
+}
+
+.label{
+    -fx-text-fill: "white";
+}
