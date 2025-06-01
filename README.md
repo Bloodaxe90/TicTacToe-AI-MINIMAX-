@@ -25,7 +25,7 @@ Run the main method in the TicTacToeAIApplication class
 
 <h2>Results:</h2>
 
-A screenshot of the final game  
+This project was very successful with the final AI able to consistently beat or draw against me
 ![image](https://github.com/user-attachments/assets/44221a44-8904-44be-b229-a9e33f97184d)
 
 
